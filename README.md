@@ -1,0 +1,2 @@
+# FortniteTypeMappings
+Fortnite Mappings Service
